@@ -1,0 +1,41 @@
+
+input{
+  width: 100%;
+  float: left;
+
+}
+
+.kg-row{
+   margin:10px 5px;
+}
+
+.kg-button{
+   min-width: 80px;
+}
+.container1{
+   margin: auto;
+   width: 600px;
+   border: 1px solid;
+   background-color: rgb(171, 209, 209);
+}
+
+
+/* .head1{
+  margin: 20px;
+  
+}
+.head1 h1{
+  font-size: 50px;
+}
+.p1{
+  margin: 15px;
+  text-align: left;
+  font-weight: 600;
+}
+ .kg-button{
+  min-width: 80px;
+}
+input{
+   width: 100%;
+   font-weight: 600;
+} */
